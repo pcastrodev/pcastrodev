@@ -1,4 +1,4 @@
-# 🚀 Hey, eu sou o Pedro Henrique!  
+# 🚀 Olá! Eu sou o Pedro Henrique!  
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+em+formação+⚡;Futuro+Engenheiro+DevOps+🔧;Apaixonado+por+automação+e+cloud+☁️" alt="Título animado" />
